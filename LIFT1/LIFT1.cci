@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:543D6762
+NODE:I LEVEL:0 LINE:1 "C:\cvavreval\inc\mega16.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavreval\inc\delay.h"
+NODE:V LEVEL:0 LINE:3 "Z -> RAM:????"
+NODE:V LEVEL:0 LINE:4 "currentFloor -> R4,R5"
+NODE:V LEVEL:0 LINE:5 "desireFloor -> R6,R7"
+NODE:V LEVEL:0 LINE:6 "floor -> R8,R9"
+NODE:V LEVEL:0 LINE:7 "count -> R10,R11"
+NODE:V LEVEL:0 LINE:8 "i -> R12,R13"
+NODE:V LEVEL:0 LINE:9 "j -> RAM:????"
+NODE:F LEVEL:0 LINE:12 "main(void)"

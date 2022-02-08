@@ -1,0 +1,23 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+Z                                                                                 0x0160      20
+j                                                                                 0x0174       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+currentFloor                                                                      R4,R5        2
+desireFloor                                                                       R6,R7        2
+floor                                                                             R8,R9        2
+count                                                                             R10,R11      2
+i                                                                                 R12,R13      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0006C    149
